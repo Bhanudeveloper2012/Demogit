@@ -1,0 +1,1 @@
+print("This was example for the github")
